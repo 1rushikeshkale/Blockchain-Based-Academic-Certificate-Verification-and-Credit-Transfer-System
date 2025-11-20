@@ -138,8 +138,7 @@ npx hardhat run scripts/deploy.js --network localhost
 ---
 
 ## 📌 Screenshots
-![Uploading Admin Login Page.PNG…]()
-
+![image alt]([image_url](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/0bf8202d8be989239423fe89268259d9bf70b1dc/Admin%20Login%20Page.PNG))
 
 
 
