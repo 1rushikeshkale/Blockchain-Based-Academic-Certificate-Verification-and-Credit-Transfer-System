@@ -146,7 +146,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ## ❤️ Credits
 
-Developed by: **Rushikesh Kale** Master of Computer Application
+Developed by: **Rushikesh Kale** ( Master of Computer Application )
 
 ---
 
